@@ -74,12 +74,12 @@
 %\newcommand{\abs}[1]{\left|#1\right|}
 
 % correctly formated latin
-\newcommand{\abinitio}{\emph{ab initio}\xspace}
-\newcommand{\adhoc}{\emph{ad hoc}\xspace}
-\newcommand{\etal}{\emph{et al.}\xspace}
-\newcommand{\insitu}{\emph{in situ}\xspace}
-\newcommand{\operando}{\emph{operando}\xspace}
-\newcommand{\via}{\emph{via}\xspace}
+\newcommand{\abinitio}{\textit{ab~initio}\xspace}
+\newcommand{\adhoc}{\textit{ad~hoc}\xspace}
+\newcommand{\etal}{\textit{et~al.}\xspace}
+\newcommand{\insitu}{\textit{in~situ}\xspace}
+\newcommand{\operando}{\textit{operando}\xspace}
+\newcommand{\via}{\textit{via}\xspace}
 
 
 % Colored symbols used during editing.
