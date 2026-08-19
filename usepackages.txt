@@ -19,6 +19,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{comment}
 \usepackage{subfiles}
+\usepackage{ulem}
 
 %get the floats right
 \usepackage[dvips]{epsfig}
